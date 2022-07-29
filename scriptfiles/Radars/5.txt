@@ -1,0 +1,10 @@
+_x = 2130.492187
+_y = -1741.262329
+_z = 10.565191
+_rot = 359.878051
+_range = 20
+_limit = 60
+_fine = 250
+_usemph = 0
+_activelabel = false
+_labeltxt = 
